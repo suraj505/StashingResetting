@@ -9,4 +9,6 @@ class File3
 
 Abcd
 EFGH
+MOPQR
+XYZ
 
