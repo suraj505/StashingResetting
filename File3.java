@@ -7,6 +7,6 @@ class File3
 
 }
 
+Abcd
+EFGH
 
-Stash Complete
-Abc
